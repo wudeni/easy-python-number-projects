@@ -1,3 +1,3 @@
 # easy-python-number-projects
 
-*Fibonacci Sequence - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+*Fibonacci Sequence - Enter a number and the program generate the Fibonacci sequence upto that number, as well as it shows how the calculation have done!
